@@ -30,8 +30,8 @@ const teamData = [
     name: 'Akash Patel',
     title: 'Finance Anchor 💰 – Holding the club’s resources strong and steady through every financial storm.',
     role: 'Treasurer',
-    Linkedin: 'https://www.linkedin.com/in/baibhav-kumar-0b15a524a/',
-    Instagram: 'https://www.instagram.com/its_me_b___?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==',
+    Linkedin: 'https://www.linkedin.com/in/akash-3676a8280/',
+    Instagram: 'https://www.instagram.com/aakash.17_01/',
   },
   {
     image: 'images/Team/Rishit_Kapoor.webp',
@@ -61,8 +61,8 @@ const teamData = [
     name: 'Abhinav Awasthi',
     title: 'Design Sorcerer 🎨 – Breathing magic into every pixel, making ideas visually unforgettable.',
     role: 'Joint Head of Graphic Design',
-    Linkedin: 'https://www.linkedin.com/in/srishti-mahapatra-b54062246/',
-    Instagram: 'https://www.instagram.com/srishtimahapatra?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==',
+    Linkedin: 'https://www.linkedin.com/in/abhinav-awasthi11/',
+    Instagram: 'https://www.instagram.com/abhinav_ux/',
   },
   {
     image: 'images/Team/Nishant.webp',
